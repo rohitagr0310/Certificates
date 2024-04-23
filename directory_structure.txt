@@ -1,0 +1,51 @@
+Certificates/
+  CodeChef/
+    rohitagr0310-Learn C.pdf
+    rohitagr0310-Learn Python.pdf
+  CS50/
+    CS50x.pdf
+  Geekster/
+    Geekster - Java Fundamentals.pdf
+  Google/
+    google-cloud-computing-foundations-certificate.png
+    CyberSecurity/
+      Google - Assets Threats and Vulnerabilities.pdf
+      Google - Connect and Protect - Networks and Network.pdf
+      Google - Foundations of Cybersecurity.pdf
+      Google - Play It Safe - Manage Security Risks.pdf
+      Google - Tools of the Trade - Linux and SQL.pdf
+  Great Learning/
+    Rohit Agarwal - CSS .pdf
+    Rohit Agarwal - HTML.pdf
+    Rohit Agarwal - Linux tutorial.pdf
+  GUVI/
+    Rohit Agarwal - Ai for India 2.0 - GUVi.png
+    Rohit Agarwal - Python - GUVi.png
+  HackerRank/
+    problem_solving_basic certificate.pdf
+    python_basic certificate.pdf
+    software_engineer_intern certificate.pdf
+    sql_basic certificate.pdf
+  IBM/
+    Job Readiness Certificate.pdf
+  Kaggle/
+    Rohit Agarwal - Intro to Machine Learning.png
+    Rohit Agarwal - Intro to Programming.png
+    Rohit Agarwal - Pandas.png
+  LetsUpgrade/
+    Rohit Agrawal - LetsUpgrade - Html and Css Essential.pdf
+    Rohit Agrawal - LetsUpgrade - Javascript Programming Essential.pdf
+  Microsoft/
+    Microsoft Azure Fundamentals Describe cloud concepts.pdf
+  Non Tech/
+    Certificate - Tree-Nation.pdf
+    pupilfirst - Environmental awarness.pdf
+  Postman/
+    Postman - Postman API Fundamentals Student Expert - 2024-02-06.png
+    Postman Student Expert.pdf
+  Scalar/
+    Scalar - Data Science Course - Mastering the Fundamentals.png
+  SIH/
+    Rohit Agarwal - SIH Volunteer 2023.pdf
+  Skill-Up/
+    Rohit Agarwal - Introduction to Linux.pdf
