@@ -1,17 +1,22 @@
 import os
 
-def save_directory_structure(root_dir, output_file):
-    with open(output_file, 'w') as f:
-        for dirpath, dirnames, filenames in os.walk(root_dir):
-            depth = dirpath.count(os.sep)
-            indent = '  ' * depth
-            f.write('{}{}/\n'.format(indent, os.path.basename(dirpath)))
-            sub_indent = '  ' * (depth + 1)
-            for filename in filenames:
-                f.write('{}{}\n'.format(sub_indent, filename))
 
-if __name__ == "__main__":
-    root_directory = os.path.dirname(os.path.abspath(__file__))
-    output_file = "directory_structure.txt"
-    save_directory_structure(root_directory, output_file)
-    print("Directory structure saved to", output_file)
+def print_directory_structure(folder_path, file, indent=""):
+    for item in os.listdir(folder_path):
+        item_path = os.path.join(folder_path, item)
+        if os.path.isdir(item_path):
+            file.write(indent + f"📁 {item}\n")
+            print_directory_structure(item_path, file, indent + "    ")
+        else:
+            file.write(indent + f"📄 {item}\n")
+
+
+# Get the current directory
+current_directory = os.getcwd()
+
+# Open a file to write the output
+with open("directory_structure.txt", "w", encoding="utf-8") as file:
+    # Call the function with the current directory and file object
+    print_directory_structure(current_directory, file)
+
+print("Directory structure has been written to directory_structure.txt")

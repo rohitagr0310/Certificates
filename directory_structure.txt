@@ -1,51 +1,88 @@
-Certificates/
-  CodeChef/
-    rohitagr0310-Learn C.pdf
-    rohitagr0310-Learn Python.pdf
-  CS50/
-    CS50x.pdf
-  Geekster/
-    Geekster - Java Fundamentals.pdf
-  Google/
-    google-cloud-computing-foundations-certificate.png
-    CyberSecurity/
-      Google - Assets Threats and Vulnerabilities.pdf
-      Google - Connect and Protect - Networks and Network.pdf
-      Google - Foundations of Cybersecurity.pdf
-      Google - Play It Safe - Manage Security Risks.pdf
-      Google - Tools of the Trade - Linux and SQL.pdf
-  Great Learning/
-    Rohit Agarwal - CSS .pdf
-    Rohit Agarwal - HTML.pdf
-    Rohit Agarwal - Linux tutorial.pdf
-  GUVI/
-    Rohit Agarwal - Ai for India 2.0 - GUVi.png
-    Rohit Agarwal - Python - GUVi.png
-  HackerRank/
-    problem_solving_basic certificate.pdf
-    python_basic certificate.pdf
-    software_engineer_intern certificate.pdf
-    sql_basic certificate.pdf
-  IBM/
-    Job Readiness Certificate.pdf
-  Kaggle/
-    Rohit Agarwal - Intro to Machine Learning.png
-    Rohit Agarwal - Intro to Programming.png
-    Rohit Agarwal - Pandas.png
-  LetsUpgrade/
-    Rohit Agrawal - LetsUpgrade - Html and Css Essential.pdf
-    Rohit Agrawal - LetsUpgrade - Javascript Programming Essential.pdf
-  Microsoft/
-    Microsoft Azure Fundamentals Describe cloud concepts.pdf
-  Non Tech/
-    Certificate - Tree-Nation.pdf
-    pupilfirst - Environmental awarness.pdf
-  Postman/
-    Postman - Postman API Fundamentals Student Expert - 2024-02-06.png
-    Postman Student Expert.pdf
-  Scalar/
-    Scalar - Data Science Course - Mastering the Fundamentals.png
-  SIH/
-    Rohit Agarwal - SIH Volunteer 2023.pdf
-  Skill-Up/
-    Rohit Agarwal - Introduction to Linux.pdf
+📁 CodeChef
+    📄 rohitagr0310-Learn C.pdf
+    📄 rohitagr0310-Learn Python.pdf
+📁 CS50
+    📄 CS50x.pdf
+    📄 Ready Player 50.pdf
+📄 directory_structure.txt
+📁 FurtureSkill Prime
+    📄 Rohit Agrawal - Digital 101.pdf
+    📄 Rohit Agrawal - Machine Learning Foundation.pdf
+📁 Geekster
+    📄 Geekster - Java Fundamentals.pdf
+📁 Google
+    📁 CyberSecurity
+        📄 Google - Assets Threats and Vulnerabilities.pdf
+        📄 Google - Connect and Protect - Networks and Network.pdf
+        📄 Google - Foundations of Cybersecurity.pdf
+        📄 Google - Play It Safe - Manage Security Risks.pdf
+        📄 Google - Tools of the Trade - Linux and SQL.pdf
+    📄 fundamental of digital marketing.pdf
+    📄 google-cloud-computing-foundations-certificate.png
+📁 Great Learning
+    📄 Rohit Agarwal - CSS .pdf
+    📄 Rohit Agarwal - HTML.pdf
+    📄 Rohit Agarwal - Linux tutorial.pdf
+📁 GUVI
+    📄 Rohit Agarwal - Ai for India 2.0 - GUVi.png
+    📄 Rohit Agarwal - Python - GUVi.png
+📁 HackerRank
+    📄 problem_solving_basic certificate.pdf
+    📄 python_basic certificate.pdf
+    📄 software_engineer_intern certificate.pdf
+    📄 sql_basic certificate.pdf
+📁 IBM
+    📄 Job Readiness Certificate.pdf
+📁 Internships
+    📁 Bharat Intern
+        📄 Rohit Agarwal - Bharat Intern Certificate.pdf
+        📄 Rohit Agarwal - bharat intern letter.pdf
+    📁 Eisystems Services
+        📁 Report
+            📄 Ei Services Technologies - Report.pdf
+            📄 Rohit Agarwal - Report.docx
+        📄 Rohit Agarwal - Certificate of Internship.pdf
+        📄 Rohit Agarwal - Offer Letter.pdf
+    📁 IBM Data Science Internship
+        📄 Certificate of Internship.pdf
+        📁 Data Fundamentals
+            📄 Rohit Agrawal - Data Analysis - Khan Academy.pdf
+            📄 Rohit Agrawal - Data Science in Our World.pdf
+            📄 Rohit Agrawal - introduction to Data concepts.pdf
+        📄 IBM - Agile Meets Design Thinking.pdf
+        📄 Rohit Agrawal - Data Analysis with Python.pdf
+        📄 Rohit Agrawal - Data Visualization with Python.pdf
+        📄 Rohit Agrawal - Hadoop 101.pdf
+    📁 Mouktik internship
+        📄 Rohit Agrawal - Internship Completion Certificate.pdf
+        📄 Rohit Agrawal Mouktik internship Letter.pdf
+📁 Kaggle
+    📄 Rohit Agarwal - Intro to Machine Learning.png
+    📄 Rohit Agarwal - Intro to Programming.png
+    📄 Rohit Agarwal - Pandas.png
+📁 LetsUpgrade
+    📄 Rohit Agrawal - LetsUpgrade - Html and Css Essential.pdf
+    📄 Rohit Agrawal - LetsUpgrade - Javascript Programming Essential.pdf
+📄 main.py
+📁 Microsoft
+    📄 Microsoft Azure Fundamentals Describe cloud concepts.pdf
+📁 Non Tech
+    📄 Certificate - Tree-Nation.pdf
+    📄 pupilfirst - Environmental awarness.pdf
+📁 Postman
+    📄 Postman - Postman API Fundamentals Student Expert - 2024-02-06.png
+    📄 Postman Student Expert.pdf
+📄 README.md
+📁 Resume
+    📁 Cover Letter
+        📄 Rohit Agarwal - Cover letter - Microsoft.pdf
+        📄 Rohit Agarwal - Cover letter - VISA.pdf
+    📄 old Resume.pdf
+    📄 Rohit_Agarwal___Resume___Data_Scientist_Intern.pdf
+📁 Scalar
+    📄 Scalar - Data Science Course - Mastering the Fundamentals.png
+📁 SIH
+    📄 Rohit Agarwal - SIH Volunteer 2023.pdf
+📁 Skill-Up
+    📄 Introduction to SQL.pdf
+    📄 Rohit Agarwal - Introduction to Linux.pdf
