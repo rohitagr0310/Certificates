@@ -2,6 +2,7 @@
     📄 rohitagr0310-Learn C.pdf
     📄 rohitagr0310-Learn Python.pdf
 📁 CS50
+    📄 CS50 SQL.pdf
     📄 CS50x.pdf
     📄 Ready Player 50.pdf
 📄 directory_structure.txt
@@ -78,7 +79,7 @@
         📄 Rohit Agarwal - Cover letter - Microsoft.pdf
         📄 Rohit Agarwal - Cover letter - VISA.pdf
     📄 old Resume.pdf
-    📄 Rohit_Agarwal___Resume___Data_Scientist_Intern.pdf
+    📄 Rohit_Agarwal_Resume.pdf
 📁 Scalar
     📄 Scalar - Data Science Course - Mastering the Fundamentals.png
 📁 SIH
